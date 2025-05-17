@@ -1,0 +1,8 @@
+Flask
+Flask-PyMongo
+pymongo
+Werkzeug
+tensorflow
+numpy
+Pillow
+python-dotenv
